@@ -83,11 +83,11 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/GroupMenterRobot?startgroup=true"),
+            text="➕️ Add To Your Group ➕️", url="https://t.me/ThemanagementRobot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Updates", url="https://t.me/GroupMenterUpdates"),
-        InlineKeyboardButton(text="Support", url="https://t.me/GroupMenterGroup"),
+        InlineKeyboardButton(text="📢Updates", url="https://t.me/ManagementBot_Updates"),
+        InlineKeyboardButton(text="👥Support", url="https://t.me/managementBot_Support"),
     ],
     [
         InlineKeyboardButton(
@@ -375,8 +375,8 @@ def groupmenter_about_callback(update: Update, context: CallbackContext):
                  
 ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Group Menter's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://github.com/TeamGroupMenter/GroupMenter).
-                 If you have any question about Group Menter, let us know at @GroupMenterUpdates.""",
+                 Here is the [💾Repository](https://github.com/VTheekshana/management-Bot).
+                 If you have any question about Group Menter, let us know at @managementBot_Updates.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -402,8 +402,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Group Menter*
-                 \nHere is the [Source Code](https://github.com/TeamGroupMenter/GroupMenter) .""",
+            text=""" Hi..🤗 I'm *Group management Bot*
+                 \nHere is the [Source Code](https://github.com/VTheekshana/management-Bot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
