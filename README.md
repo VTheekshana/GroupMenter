@@ -3,7 +3,7 @@
 An PowerFull Group Manager Bot. Written In Pytelethon.
 
 <p align="center">
-  <img src="https://telegra.ph/file/fd28c4d14220d0beb3ba1.jpg">
+  <img src="https://telegra.ph/file/55d4152abbf3c168fe30e.jpg">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ An PowerFull Group Manager Bot. Written In Pytelethon.
 ### Deploy to heroku 💤
 
 <p align="left">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/TeamGroupMenter/GroupMenter/">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/VTheekshana/management-Bot/">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
@@ -40,10 +40,10 @@ An PowerFull Group Manager Bot. Written In Pytelethon.
 <details><summary>All Credits Here</summary>
 <p>
 
-**[Vivek](https://github.com/VIVEK-TP)** ▪ **[Aswin Raj](https://github.com/ASWIN-RAJ-TG)** ▪ **[Uvindu Bro](https://github.com/UvinduBro)** ▪ **[Devil](https://github.com/lucifeermorningstar)** ▪ **[Miss-Valentina](https://github.com/Miss-Valentina)** ▪ **[MashaRobot](https://github.com/Mr-Dark-Prince/MashaRoBot)** ▪ **[SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)** ▪ **[WilliamButcherBot](https://github.com/thehamkercat/WilliamButcherBot)**
+**[Theekshana](https://github.com/VTheekshana)** **
 
 </details>
 
 ### Sponsors 🎸
 
-**[Vivek](https://github.com/VIVEK-TP)** ▪ **[Aswin Raj](https://github.com/AsWIN-RAJ-TG)**
+**[Theekshana](https://github.com/VTheekshana)** 
