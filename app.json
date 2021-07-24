@@ -1,7 +1,7 @@
 {
-      "name": "Group Menter",
+      "name": "Group management ",
       "description": "A Complete Pytelethon Version Telegram group management bot.",
-      "logo": "https://telegra.ph/file/9b212680f21f5f792d08f.jpg",
+      "logo": "https://telegra.ph/file/55d4152abbf3c168fe30e.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Group Menter"
       ],   
-   "repository": "https://github.com/TeamGroupMenter/GroupMenter",
+   "repository": "https://github.com/VTheekshana/management-Bot",
    "addons": [
       {
          "options": {
